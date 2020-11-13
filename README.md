@@ -5,10 +5,6 @@ REF: https://cdk-eks-devops.workshop.aws/ko/10-intro.html
 실습하면서 정리한 내용
 https://docs.google.com/document/d/18oRjgun7qgn21nHrB8WEgjwPLo1pr3FmybJPcbav2eo/edit?usp=sharing
 
-This repository holds the skeleton code where you would start the journey to *[Manage your EKS Cluster with CDK](http://demogo-multiregion-eks.s3-website.ap-northeast-2.amazonaws.com/ko/)* Hands-on Lab.
-
-Please clone this repository and start [the workshop](http://demogo-multiregion-eks.s3-website.ap-northeast-2.amazonaws.com/ko/) to play with the lab. :)
-
 
 ## Related Repository
 * [Skeleton Repository](https://github.com/yjw113080/aws-cdk-eks-multi-region-skeleton): You would clone this repository and build up the code as going through the steps in the lab.
