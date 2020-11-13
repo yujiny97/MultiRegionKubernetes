@@ -1,4 +1,5 @@
-# Manage your EKS Cluster with CDK
+# Manage your EKS Cluster with CDK  
+염지원님의 워크숍강의를 보고 실습한 것임을 밝힙니다.  
 This repository holds the skeleton code where you would start the journey to *[Manage your EKS Cluster with CDK](http://demogo-multiregion-eks.s3-website.ap-northeast-2.amazonaws.com/ko/)* Hands-on Lab.
 
 Please clone this repository and start [the workshop](http://demogo-multiregion-eks.s3-website.ap-northeast-2.amazonaws.com/ko/) to play with the lab. :)
