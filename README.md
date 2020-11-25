@@ -4,6 +4,7 @@ REF: https://cdk-eks-devops.workshop.aws/ko/10-intro.html
 
 실습하면서 정리한 내용
 https://docs.google.com/document/d/18oRjgun7qgn21nHrB8WEgjwPLo1pr3FmybJPcbav2eo/edit?usp=sharing
+그리고 프로젝트 보고서의 3번째 부분이 MultiRegion 배포 방식에 대한 내용입니다.
 
 
 ## Related Repository
